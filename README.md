@@ -29,7 +29,7 @@ Gesture Console is a macOS application that allows you to control games using ph
 ```
 xattr -d com.apple.quarantine /Applications/GestureConsole.app
  ```
-6. Launch the application and grant camera permissions when prompted
+6. Give permissions for accecebility and camera if not prompted when openeed.
 
 ### For windows versions click [here](https://github.com/vinith-369/GestureConsole/releases/tag/v1.0.1).
 
