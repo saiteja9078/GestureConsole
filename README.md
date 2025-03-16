@@ -21,7 +21,7 @@ Gesture Console is a macOS application that allows you to control games using ph
 
 ## Installation
 
-### Option 1: Download the DMG (Recommended)
+### Download the DMG (Recommended)
 1. Download the latest release from the [Releases page]([https://github.com/yourusername/gesture-console/releases](https://github.com/saiteja9078/GestureConsole/releases/tag/1.0.0))
 2. Open the DMG file
 3. Drag Gesture Console to your Applications folder
