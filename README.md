@@ -56,7 +56,6 @@ Gesture Console is built using:
 
 Gesture Console processes all video locally on your device. No data is sent to external servers or stored beyond what's needed for the gesture recognition model.
 
-## License[https://github.com/saiteja9078/GestureConsole/blob/main/LICENSE]
 
 ## Contributing
 
