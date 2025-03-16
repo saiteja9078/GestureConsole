@@ -1,0 +1,7 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+mediapipe>=0.8.9
+PyQt5>=5.15.0
+scikit-learn>=0.24.0
+pyautogui>=0.9.52
+appdirs>=1.4.4
